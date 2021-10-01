@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## This branch uses Redux as its State Manager.
+## This branch uses Redux as it State Manager.
 
 ## Before starting
 
