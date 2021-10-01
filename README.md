@@ -1,8 +1,8 @@
 # This is a React { Typescript } boilerplate.
 
-## This branch uses Redux as its State Manager.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## This branch uses Redux as its State Manager.
 
 ## Before starting
 
