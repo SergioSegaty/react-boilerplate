@@ -2,13 +2,13 @@ import { Switch, Route, Redirect } from 'react-router-dom';
 
 const LoggedArea = () => <div>Area Authenticada</div>;
 
-const AuthenticatedRoutes = () => {
+const AuthenticatedRoutes = () => (
   <Switch>
     <Route component={LoggedArea} path="/logged" />
     <Route path="*">
       <Redirect to="/home" />
     </Route>
-  </Switch>;
-};
+  </Switch>
+);
 
 export default AuthenticatedRoutes;
