@@ -1,8 +1,11 @@
 # This is a React { Typescript } boilerplate.
 
+## This branch uses Redux as its State Manager.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Before starting 
+## Before starting
+
 You should install EsLint extesion (VsCode)
 and run the command:
 
